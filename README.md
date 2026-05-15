@@ -58,6 +58,10 @@ brew upgrade box-kr/curtain/curtain || brew upgrade curtain
 
 ## 🆕 업데이트 소식 (Release Notes)
 
+### v1.0.38
+- **설정화면과 메뉴바 항목상태 불일치 해결**: 설정화면과 메뉴바 화면의 옵션 설정 상태  불일치를 해결 했습니다. 
+- **Dock Icon 감추기/보이기**: 앱 실행할때 Dock에 아이콘이 보이거나 안보이게 설정 할 수 있습니다.
+
 ### v1.0.32
 - **성능 및 안정화**: 내부 성능 개선 및 안정화 처리
 
