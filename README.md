@@ -58,6 +58,9 @@ brew upgrade box-kr/curtain/curtain || brew upgrade curtain
 
 ## 🆕 업데이트 소식 (Release Notes)
 
+### v1.0.42
+- **한/영 전환 오류 수정**: 한영키로 한영전환 오류 수정
+
 ### v1.0.40
 - **원격접속 감지 오류 수정**: vnc접속 감지 오류 수정
 
